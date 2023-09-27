@@ -1,6 +1,6 @@
-# vscode-keyboard-shortcuts-macOS-dark-theme
-One page includes all keyboard shortcuts for essential actions in Visual Studio Code for macOS, presented in a dark color scheme for comfortable usage.
+# [All keyboard shortcuts for Visual Studio Code (macOS)](https://github.com/YSergo/vscode-keyboard-shortcuts-macOS-dark-theme/blob/main/keyboard-shortcuts-macos.png?raw=true)
 
-Resoluton: 4400 × 3400
+## Pesented in a dark color scheme for comfortable use.
+## Resoluton: 4400 × 3400
 
 Original version: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
